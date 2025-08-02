@@ -37,7 +37,7 @@ This site is designed for easy deployment on **GitHub Pages**:
 - Go to your repo settings > Pages > set the source to your main branch
 - Your site will be live at: `https://your-username.github.io/your-portfolio-repo/`
 
-**Live Demo:** [View my portfolio here!](https://sibby-killer.github.io/Alfred-Portfollio/)
+**Live Demo:** [View my portfolio here!](https://alfred-guru.github.io/Portfollio-hackathon/)
 
 ## License
 Feel free to use this as inspiration for your own portfolio. If you do, a little credit would make my day!
